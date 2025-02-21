@@ -1,13 +1,13 @@
-package com.capgeminitraining.UC3;
+package com.capgeminitraining.UC4;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Uc3Application {
+public class Uc4Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Uc3Application.class, args);
+		SpringApplication.run(Uc4Application.class, args);
 	}
 
 }
