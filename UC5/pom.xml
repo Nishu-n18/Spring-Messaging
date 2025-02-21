@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.capgeminitraining</groupId>
-	<artifactId>UC4</artifactId>
+	<artifactId>UC5</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>UC4</name>
+	<name>UC5</name>
 	<description>Hello project for Spring Boot</description>
 	<url/>
 	<licenses>

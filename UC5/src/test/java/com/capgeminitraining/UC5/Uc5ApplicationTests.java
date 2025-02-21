@@ -1,10 +1,10 @@
-package com.capgeminitraining.UC4;
+package com.capgeminitraining.UC5;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Uc4ApplicationTests {
+class Uc5ApplicationTests {
 
 	@Test
 	void contextLoads() {
